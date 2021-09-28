@@ -16,7 +16,12 @@ For the baselines mentioned in results, please refer follwoing codes that we had
 * Code for TGCN and VGCN-BERT: gcn.py + adjacency.ipynb + train.py 
 
 Dataset Information - 
+
 ![See proposed model here](others/dataset_statistics.jpg)
 
 
-Project report can be found at []
+Results from our model - 
+![See proposed model here](others/results.jpg)
+
+
+Project report can be found at [Report.pdf](others/Report.pdf)
