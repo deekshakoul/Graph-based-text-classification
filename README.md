@@ -14,3 +14,9 @@ For the baselines mentioned in results, please refer follwoing codes that we had
 * LSTM with pre-trained GloVe embeddings(d=300) : [LSTM - GloVe](https://github.com/deekshakoul/Examples-of-DL-NLP-using-Pytorch.git)
 * For BERT, we used a package [Simple Transformers](https://simpletransformers.ai/)
 * Code for TGCN and VGCN-BERT: gcn.py + adjacency.ipynb + train.py 
+
+Dataset Information - 
+![See proposed model here](others/dataset_statistics.jpg)
+
+
+Project report can be found at []
